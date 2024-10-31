@@ -4,7 +4,8 @@ import UserContext from "../context/UserContext";
 function Login() {
   return (
     <div>
-      <h2></h2>
+      <h2>Login</h2>
+      
     </div>
   )
 }
